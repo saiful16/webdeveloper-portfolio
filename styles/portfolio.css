@@ -233,6 +233,7 @@ main {
 #CV{
     text-align: center;
     align-items: center;
+    
 }
 
 
@@ -242,4 +243,21 @@ footer {
     display: flex;
     background-color: #FFF8F3;
     padding: 130px 130px ;
+    gap: 100px;
 }
+.foter-column{
+    width: 50%;
+    display: block;
+}
+.contact-form input[type="text"], input[type="email"], textarea{
+    display: block;
+    margin-bottom: 25px;
+    padding: 18px 20px;
+    color: #757575;
+    border: 0;
+    border-radius: 5px;
+    width: 100%;
+
+}
+
+.contact-form input[type=]
