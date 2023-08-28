@@ -230,11 +230,16 @@ main {
     margin: 10px;
 }
 
-
+#CV{
+    text-align: center;
+    align-items: center;
+}
 
 
 
 /* footer section */
-.footer-section {
+footer {
     display: flex;
+    background-color: #FFF8F3;
+    padding: 130px 130px ;
 }
